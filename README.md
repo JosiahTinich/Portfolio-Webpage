@@ -1,2 +1,7 @@
-# Portfolio-Webpage
- This is my portfolio webpage
+# DEVELOPER LOG
+
+## DEV Logs
+
+#### 2024-10-17
+
+-Created first github repository 
